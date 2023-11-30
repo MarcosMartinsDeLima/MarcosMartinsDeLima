@@ -1,9 +1,4 @@
 # Olá, eu sou Marcos M. De Lima
-## Entre em contato comigo:
-<a href="www.linkedin.com/in/marcosmartinsdelima" target="_blank">
-<img src="https://img.shields.io/badge/Linkedin-8A2sdsc?style=for-the-badge&logo=linkedin&logoColor=black" alt="linkdedin">
-</a>
-
 ![MarcosMartinsDeLima's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosMartinsDeLima&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMartinsDeLima&layout=donut&theme=radical)](https://github.com/MarcosMartinsDeLima/github-readme-stats)
 ## sobre mim:
