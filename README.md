@@ -1,6 +1,6 @@
 # Olá, eu sou Marcos M. De Lima
 ## Entre em contato comigo:
-<a href="www.linkedin.com/in/marcosmartinsdelima">
+<a href="www.linkedin.com/in/marcosmartinsdelima" target="_blank">
 <img src="https://img.shields.io/badge/Linkedin-8A2sdsc?style=for-the-badge&logo=linkedin&logoColor=black" alt="linkdedin">
 </a>
 
