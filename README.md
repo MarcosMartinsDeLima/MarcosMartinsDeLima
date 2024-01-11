@@ -1,7 +1,7 @@
 # Olá, eu sou Marcos M. De Lima
 
 ## sobre mim:
-Sou um Desenvolvedor Back-End,estou estudando com foco em me especializar em node js,ademais estudo banco de dados relacionais como MySql,e não relacionais como MongoDb,estudo também Docker,tenho conhecimento Basico em html, css,php e python.Gosto muito de estar sempre estudando e me atualizando,e também trabalhando minha lógica com a resolução de problemas.
+Sou um Desenvolvedor Back-End, minhas principais competencias são no desenvolvimento de aplicações e api's REST em C#(dotnet) com asp net core e Entity framework,  MySql, MongoDb, tenho conhecimento em NodeJs com express, e java com spring boot, estudo também Docker, e tenho conhecimento Basico em html, css  também.Gosto muito de estar sempre estudando e me atualizando,e também trabalhando minha lógica com a resolução de problemas.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMartinsDeLima&hide_progress=false&theme=radical&layout=compact)
 ![MarcosMartinsDeLima's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosMartinsDeLima&show_icons=true&theme=radical)
