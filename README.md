@@ -1,4 +1,4 @@
-# Olá, eu sou Marcos M. De Lima
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?duration=3909&pause=500&color=47F780&lines=Olá+Sou+o+Marcos+Martins+De+Lima;Software+Engineer;)](https://git.io/typing-svg)
 
 ## sobre mim:
 Sou um Desenvolvedor Back-End, minhas principais competencias são no desenvolvimento de aplicações e api's REST em C#(dotnet) com asp net core e Entity framework,  MySql, MongoDb, tenho conhecimento em NodeJs com express, e java com spring boot, estudo também Docker. também.Gosto muito de estar sempre estudando e me atualizando,e também trabalhando minha lógica com a resolução de problemas.
