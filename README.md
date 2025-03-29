@@ -10,16 +10,14 @@ Sou um Desenvolvedor Back-End, minhas principais competencias são no desenvolvi
 ## Tecnologias que uso/já tive contato:
 <div style="display: inline_block"><br>
   <img align="center"height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" title="C#" alt="C#" /></code>
-  <img align="center" alt="java" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg">
-    <img align="center" alt="java" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Light.svg">
-    <img align="center" alt="Python" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
-    <img align="center"height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="spring" alt="spring">
-    <img align="center" alt="docker" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
+  <img align="center" alt="DotNet" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg">
+    <img align="center" alt="RabbtMq" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Light.svg">
+    <img align="center" alt="Docker" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+   <img align="center"height="40" width="40" src="https://az-icons.com/export/icons/e66ab21c3063fe676afb455ae1969e3f.svg" title="AzureDevops" alt="spring">
+    <img align="center"height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" alt="spring">
+    <img align="center" alt="mongoDb" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
     <img align="center" alt="sql" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg">
-  <img align="center" alt="java" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg">
-  <img align="center"height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" title="spring" alt="spring">
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-  <img align="center" alt="node" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg">
   <img align="center" alt="typescript" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
 </div>
 <!---
